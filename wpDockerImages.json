@@ -1,0 +1,10 @@
+{
+    "wordpress-php-webserver": [
+        "wordpress:6.0.2-php7.4-apache",
+        "wordpress:6.3.0-php8.2-apache"
+    ],
+    "database": [
+        "mysql:5.4",
+        "mysql:8.0"
+    ]
+}
